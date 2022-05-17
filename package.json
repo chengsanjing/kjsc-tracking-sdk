@@ -1,5 +1,5 @@
 {
-  "name": "mixpanel-browser",
+  "name": "kjsc-tracking-browser",
   "version": "2.45.0",
   "description": "The official Mixpanel JavaScript browser client library",
   "main": "dist/mixpanel.cjs.js",
